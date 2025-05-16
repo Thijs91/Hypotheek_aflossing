@@ -1,6 +1,10 @@
 # Hypotheek_aflossing
 Berekend effect extra aflossing van de annuïteitenhypotheek bij structurele en of incidentele extra betalingen bij een gelijkblijvend maandbedrag tot dat de hypotheek is afgelost. 
 
+Invoergegevens:
+* Hypotheek bedrag
+* Looptijd hypotheek in maanden
+* Rentepercentage hypotheek
 * Start maand extra structurele aflossing kan worden ingesteld (1 als het bij de eerste maand moet plaatsvinden).
 * Bedrag van extra structurele aflossing.
 * N incidentele aflossingen kunenen worden ingesteld.
